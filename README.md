@@ -1,6 +1,6 @@
 # Hosti ✍🏻
 <img src="https://raw.githubusercontent.com/killukeren/Hosti/refs/heads/main/image.png"/>
-Author : K1llukeren (K1llu)
+Author : K1llukeren (K1llu)<br>
 Adalah automation tools untuk mendeteksi celah misconfig Host Header injection pada beberapa domain/subdomain pada website.
 
 # Host Header Injection ✍🏻
