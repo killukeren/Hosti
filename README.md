@@ -4,7 +4,7 @@ Adalah automation tools untuk mendeteksi celah misconfig Host Header injection p
 
 # Host Header Injection ✍🏻
 <img src="https://raw.githubusercontent.com/killukeren/Hosti/refs/heads/main/hostin.png"/>
-Host Header Injection adalah jenis kerentanan keamanan di mana penyerang bisa memanipulasi header Host atau *X-Forwarded-Host* dalam permintaan HTTP untuk menyebabkan efek tak diinginkan pada sisi server, seperti  open redirect, cache poisoning, dan bypass autentikasi.
+Host Header Injection adalah jenis kerentanan keamanan di mana penyerang bisa memanipulasi header Host atau **X-Forwarded-Host** dalam permintaan HTTP untuk menyebabkan efek tak diinginkan pada sisi server, seperti  open redirect, cache poisoning, dan bypass autentikasi.
 
 # Install Tools ✍🏻
 ```
